@@ -28,7 +28,4 @@ dpdk_testbed/dpdk_clients: DPDK programs running NetEC simple version
 dpdk_testbed/p4/: p4 program with simple EBSN mechanism.
 
 
-# TODO
-We are currently working on a simulator version (P4 Bmv2). 
-
-Simulator version can be run directly on Linux to show feasibility.
+A simulator version can be run directly on Linux to show feasibility. https://github.com/constipur/NetEC-bmv2-release
